@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @a-fitzg
+- 👀 I’m interested in Embedded Systems, Machine Learning, Firmware, and Electronics Design
+- 🌱 I’m currently learning Power Electronics, Audio Electronics, Embedded Systems Design
+- 💞️ I’m looking to collaborate on Embedded Systems and Machine Learning projects
